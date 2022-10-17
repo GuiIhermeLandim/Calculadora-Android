@@ -21,7 +21,7 @@ Calculadora desenvolvida com o principal objetivo de consolidar conhecimentos ab
 
 ## 🔨 Funcionalidades do projeto
 
-Uma Calculadora de Interface inicialmente simples, e funcional.
+Uma Calculadora de Interface inicialmente simples, porém funcional.
 
 ## ✔️ Tecnologias utilizadas
 
