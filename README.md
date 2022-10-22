@@ -23,7 +23,7 @@ Calculadora desenvolvida com o principal objetivo de consolidar conhecimentos ab
 
 Uma Calculadora de Interface inicialmente simples, porém funcional.
 
-![Calculadora](https://user-images.githubusercontent.com/79064185/197311059-c36a146f-b825-4c46-ab5b-72fcd2f8d3ae.png)
+![image](https://user-images.githubusercontent.com/79064185/197311194-1278ff78-dc88-43d3-9daa-361b4f41fd58.png)
 
 ## ✔️ Tecnologias utilizadas
 
