@@ -23,6 +23,8 @@ Calculadora desenvolvida com o principal objetivo de consolidar conhecimentos ab
 
 Uma Calculadora de Interface inicialmente simples, porém funcional.
 
+![Calculadora](https://user-images.githubusercontent.com/79064185/197311059-c36a146f-b825-4c46-ab5b-72fcd2f8d3ae.png)
+
 ## ✔️ Tecnologias utilizadas
 
 O Projeto utilizou exclusivamente a linguagem Java em seu Desenvolvimento.
